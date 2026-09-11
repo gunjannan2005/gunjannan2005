@@ -30,7 +30,7 @@
 
 ## 🎯 Profile Summary
 
-I am an **AI Engineer and Distributed Systems Builder** pursuing my B.Tech in Information Technology at **Priyadarshini Engineering College, Nagpur** (RTMNU University, 2023–2027). My technical focus is anchored in **Retrieval-Augmented Generation (RAG)**, **Multi-Modal Document Intelligence**, and **Deterministic Validation Infrastructure** for high-stakes enterprise applications.
+I am an **Applied AI Engineer and Distributed Systems Builder** pursuing my B.Tech in Information Technology at **Priyadarshini Engineering College, Nagpur** (RTMNU University, 2023–2027). My technical focus is anchored in **Retrieval-Augmented Generation (RAG)**, **Multi-Modal Document Intelligence**, and **Deterministic Validation Infrastructure** for high-stakes enterprise applications.
 
 Rather than relying on basic prompt interfaces, I treat LLM application development as an applied mathematical and engineering discipline. My research and production systems address three fundamental bottlenecks in modern AI deployment:
 
