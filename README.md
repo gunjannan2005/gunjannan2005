@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:020617,35:0f172a,70:1e293b,100:0ea5e9&height=180&section=header&text=Gunjan%20Nandeshwar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Retrieval%20%26%20Document%20Intelligence%20Systems&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:020617,35:0f172a,70:1e293b,100:0ea5e9&height=180&section=header&text=Gunjan%20Nandeshwar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Retrieval%20and%20Document%20Intelligence%20Systems&descAlignY=62&descAlign=50" width="100%"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=780&lines=Building+Production+Hybrid+RAG+%26+Document+Intelligence;SIH+2025+National+Grand+Finalist+(Top+5+in+India);Creator+of+IntelliRAG%2C+HealthIQ+%26+Clinical-AI;FastAPI+%C2%B7+FAISS+%C2%B7+BM25+%C2%B7+PyMuPDF+%C2%B7+Next.js" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=780&lines=Building+Production+Hybrid+RAG+and+Document+Intelligence;SIH+2025+National+Grand+Finalist+(Top+5+in+India);Creator+of+IntelliRAG%2C+HealthIQ+and+Clinical-AI;FastAPI+%C2%B7+FAISS+%C2%B7+BM25+%C2%B7+PyMuPDF+%C2%B7+Next.js" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://github.com/gunjannan2005"><img src="https://img.shields.io/badge/GitHub-gunjannan2005-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
