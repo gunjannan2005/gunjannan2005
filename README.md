@@ -23,7 +23,6 @@
 - [Core Portfolio & Key Systems](#-core-portfolio--key-systems)
 - [Hybrid Retrieval & Ingestion Architecture](#-hybrid-retrieval--ingestion-architecture)
 - [Technical Skill Matrix](#-technical-skill-matrix)
-- [Professional Background & Industrial Internship](#-professional-background--industrial-internship)
 - [Honors, Competitions & Recognition](#-honors-competitions--recognition)
 - [Contact & Collaboration](#-contact--collaboration)
 
@@ -171,19 +170,6 @@ I was selected as an **SIH 2025 Grand Finalist (Top 5 Nationally from 500+ insti
 | **Databases & Storage** | SQLite / aiosqlite, PostgreSQL, Firebase / Firestore, MongoDB |
 | **Frontend & Visualization** | React 18, Next.js 14, Vite, TailwindCSS, Recharts, Lucide React, Radix UI |
 | **Cloud & DevOps Tooling** | Git, Linux CLI, Docker, Railway, Vercel, Twilio API, WeasyPrint |
-
----
-
-## 💼 Professional Background & Industrial Internship
-
-### **AI Engineer Intern**
-**ITNetworkz Infosystems Pvt. Ltd. — Nagpur, Maharashtra, India**  
-*February 2026 – March 2026*
-
-- **Hybrid Retrieval System:** Architected and deployed an end-to-end hybrid document retrieval engine merging dense vector search (FAISS) with lexical keyword matching (BM25); demonstrated a **+2.9% improvement in Recall@5** over pure dense vector search across 80 curated evaluation queries.
-- **Latency Optimization via Gated Reranking:** Formulated a confidence-scoring layer that conditionally triggers expensive cross-encoder reranking only when retrieval margins are ambiguous, achieving a **6× reduction in average reranking latency**.
-- **Hallucination Suppression:** Lowered LLM hallucination frequency from **8.0% down to 2.0%** by implementing confidence-floor fallback mechanisms that enforce strict source-evidence citations under low contextual confidence.
-- **Client-Facing Chat Interface:** Engineered an interactive conversational assistant incorporating query intent routing, session memory persistence, and sub-second token generation.
 
 ---
 
