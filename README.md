@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/gunjannan2005"><img src="https://img.shields.io/badge/GitHub-gunjannan2005-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/gunjannandeshwar"><img src="https://img.shields.io/badge/LinkedIn-gunjannandeshwar-0284c7?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:gunjannadeshwar2005@gmail.com"><img src="https://img.shields.io/badge/Email-gunjannadeshwar2005@gmail.com-ea580c?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:gunjannandeshwar2005@gmail.com"><img src="https://img.shields.io/badge/Email-gunjannandeshwar2005@gmail.com-ea580c?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Nagpur%2C%20India-10b981?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
